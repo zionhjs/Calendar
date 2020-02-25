@@ -1,0 +1,3 @@
+DEBUG = False
+ALLOWED_HOSTS = ['54.215.250.166']
+STATIC_ROOT = os.path.join(BASE_DIR, "static/")
